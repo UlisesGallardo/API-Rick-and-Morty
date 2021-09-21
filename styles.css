@@ -1,0 +1,23 @@
+.contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.contenido{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.botones{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
